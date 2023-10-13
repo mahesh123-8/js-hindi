@@ -19,4 +19,4 @@
 
  //object
   console.log(typeof null)//output object
-                //udefined //same 
+                //udefined //same
