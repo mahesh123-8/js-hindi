@@ -31,3 +31,22 @@ const myfunction=function () {
 }
 
 console.log(typeof heros);
+//======================================
+
+//Stack(primitive),Heap(non primitive) 
+let myYoutubename = "techfact"
+anothername ="brainboolean"
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne={
+email:"umesh@gmail.com",
+upi:"478398@ybl",
+}
+
+let userTwo=userOne
+
+userTwo.email="user@gmail.com"
+console.log(userOne.email);
+console.log(userTwo.email);
+ 
